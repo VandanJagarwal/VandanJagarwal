@@ -25,11 +25,11 @@
 
 ###
 
-<img align="right" height="330" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
 
 ###
 
-<p align="left">🎯 Explorer of trends, patterns, and business solutions through data.<br><br>🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.<br><br>🌱 I’m currently learning Python and Machine Learning<br><br>📫 How to reach me vandan29108@gmail.com<br><br>⚡ Fun fact: I’ve tried food from 15+ countries without leaving my home city..😅</p>
+<p align="left"><b> 🎯 Explorer of trends, patterns, and business solutions through data.<br><br>🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.<br><br>🌱 I’m currently learning Python and Machine Learning<br><br>📫 How to reach me vandan29108@gmail.com<br><br>⚡ Fun fact: I’ve tried food from 15+ countries without leaving my home city..😅</b></p>
 
 ###
 
