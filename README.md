@@ -41,7 +41,7 @@
 
 ###
 
-<br clear="both">
+
 
 <h2 align="left">💻 Tech Stack:</h2>
 
@@ -61,7 +61,7 @@
 ###
 
 
-<br clear="both">
+
 <h2 align="left">🌐 Socials:</h2>
 
 <div align="left">
@@ -81,7 +81,7 @@
 </a>
 </div>
 
-<br clear="both">
+
 <h2 align="left">🏆Certifications & Achievement:</h2>
 <h4 align="left">● HackerRank Basic, Intermediate, Advance Certification<br><br>● Completed Top 50 SQL Questions on LeetCode<br><br>● Solved 30+ HackerRank SQL Questions</h4>
 
@@ -89,8 +89,8 @@
 
 
 
-
 <br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VandanJagarwal/VandanJagarwal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VandanJagarwal/VandanJagarwal/output/pacman-contribution-graph.svg">
