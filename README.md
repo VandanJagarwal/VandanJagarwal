@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+<img align="right" height="280" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 ###
 
@@ -42,12 +42,12 @@
 
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Python&logo=microsoft-outlook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=NumPy&logo=itch&label=&color=4B0082&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Pandas&logo=linkedin&label=&color=150458&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=tutanota&label=&color=54565A&logoColor=&labelColor=&style=for-the-badge" height="30" alt="tutanota logo"  />
-  <img src="https://img.shields.io/static/v1?message=Power%20BI&logo=visualstudio&label=&color=F2C811&logoColor=&labelColor=&style=for-the-badge" height="30" alt="visualstudio logo"  />
-  <img src="https://img.shields.io/static/v1?message=Excel&logo=twitter&label=&color=217346&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" height="30"/>
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" height="30"/>
 </div>
 
 ###
@@ -61,15 +61,22 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vandan29108/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Vandan_Jagarwal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=x&logo=twitter&label=&color=343434&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-  <a href="https://vandanjagarwal.github.io/AnalystVandan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=microsoft-outlook&label=&color=F2C811&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
-  </a>
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/vandan29108/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" style="vertical-align:middle;" />
+</a>
+
+<!-- X -->
+<a href="https://x.com/Vandan_Jagarwal" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23151717?style=for-the-badge&logo=x&logoColor=white" height="30" style="vertical-align:middle;" />
+</a>
+
+<!-- Portfolio -->
+<a href="https://vandanjagarwal.github.io/AnalystVandan/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23F2C811?style=for-the-badge&logo=vercel&logoColor=black" height="30" style="vertical-align:middle;" />
+</a>
+
+
 </div>
 
 ###
