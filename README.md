@@ -25,7 +25,7 @@
 
 ###
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"  />
 
 ###
 
@@ -33,7 +33,7 @@
   <li><b>🎯 Explorer of trends, patterns, and business solutions through data.</b></li><br>
   <li><b>🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.</b></li><br>
   <li><b>🌱 I’m currently learning Python and Machine Learning</b></li><br>
-  <li><b>📫 How to reach me: vandan29108@gmail.com</b></li><br>
+  <li><b>📫 How to reach me: <a href="mailto:vandan29108@gmail.com" style="color:blue; text-decoration:underline;">vandan29108@gmail.com</a></b></li>
   <li><b>⚡ Fun fact: I’ve tried food from 15+ countries without leaving my home city..😅</b></li>
 </ul>
 
