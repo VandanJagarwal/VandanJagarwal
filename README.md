@@ -29,7 +29,14 @@
 
 ###
 
-<p align="left"><b> 🎯 Explorer of trends, patterns, and business solutions through data.<br><br>🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.<br><br>🌱 I’m currently learning Python and Machine Learning<br><br>📫 How to reach me vandan29108@gmail.com<br><br>⚡ Fun fact: I’ve tried food from 15+ countries without leaving my home city..😅</b></p>
+<ul align="left">
+  <li><b>🎯 Explorer of trends, patterns, and business solutions through data.</b></li>
+  <li><b>🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.</b></li>
+  <li><b>🌱 I’m currently learning Python and Machine Learning.</b></li>
+  <li><b>📫 How to reach me: vandan29108@gmail.com</b></li>
+  <li><b>⚡ Fun fact: I’ve tried food from 15+ countries without leaving my home city.</b></li>
+</ul>
+
 
 ###
 
