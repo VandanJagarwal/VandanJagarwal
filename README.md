@@ -33,7 +33,7 @@
   <li><b>🎯 Explorer of trends, patterns, and business solutions through data.</b></li><br>
   <li><b>🤝 I'm looking to collaborate on Datasets for Analysis and Visualization projects.</b></li><br>
   <li><b>🌱 I’m currently learning Python and Machine Learning</b></li><br>
-  <li><b>📫 How to reach me: <a href="mailto:vandan29108@gmail.com" style="color:blue; text-decoration:underline;">vandan29108@gmail.com</a></b></li>
+  <li><b>📫 How to reach me: <a href="mailto:vandan29108@gmail.com" style="color:blue; text-decoration:underline;">vandan29108@gmail.com</a></b></li><br>
   <li><b>⚡ Fun fact: 🎵 When not wrangling data, you’ll find me playing the flute, because patterns exist in music too.🎺
 </b></li>
 </ul>
