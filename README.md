@@ -84,7 +84,22 @@
 
 
 <h2 align="left">🏆Certifications & Achievement:</h2>
-<h4 align="left">● HackerRank Basic, Intermediate, Advance Certification<br><br>● Completed Top 50 SQL Questions on LeetCode<br><br>● Solved 30+ HackerRank SQL Questions</h4>
+<h4 align="left">
+  ● Google Data Analytics Specialization 
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/BLIJYUF2Z0K9" target="_blank">
+    <span style="color:#00c853;">Credential</span>
+  </a>
+  <br><br>
+  ● HackerRank Basic, Intermediate, Advanced Certification 
+  <a href="https://www.hackerrank.com/certificates/ea23abf08949" target="_blank">
+    <span style="color:#00b0ff;">Credential</span>
+  </a>
+  <br><br>
+  ● Deloitte Data Analytics Virtual Internship 
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_M7xEbtwSAnMxEwNXW_1749117525796_completion_certificate.pdf" target="_blank">
+    <span style="color:#ff6d00;">Credential</span>
+  </a>
+</h4>
 
 ###
 
