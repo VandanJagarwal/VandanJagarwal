@@ -91,7 +91,7 @@
   </a>
   <br><br>
   ● HackerRank Basic, Intermediate, Advanced Certification |
-  <a href="https://www.hackerrank.com/certificates/ea23abf08949" target="_blank">
+  <a href="[https://www.hackerrank.com/certificates/ea23abf08949](https://www.hackerrank.com/profile/vandan29108)" target="_blank">
     <span style="color:#00b0ff;">Credential</span>
   </a>
   <br><br>
